@@ -1,0 +1,7 @@
+opencv-python-headless
+pandas
+psycopg2-binary
+streamlit
+streamlit-drawable-canvas
+torch
+torchvision
